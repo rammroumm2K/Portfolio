@@ -305,4 +305,16 @@ main a {
 .spotify iframe{
   margin-left: 80%;
   margin-top: 10px;
+  position: relative;
+  left: 200%;
+  top: 120%;
+}
+
+#spotify2{
+  position: absolute;
+  color: white;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  left: 65%;
+  text-shadow: rgb(255, 0, 255) 1px 0 10px;
 }
